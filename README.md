@@ -1,3 +1,3 @@
 # React + Vite
 
-simple react quiz app to under stand use reducer hook 
+simple react quiz app to understand use reducer hook 
